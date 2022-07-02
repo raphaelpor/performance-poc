@@ -1,0 +1,14 @@
+.row {
+    background-color: cadetblue;
+    width: 98%;
+    padding: 24px;
+    margin: 24px 1%;
+}
+
+.item {
+    background-color: cornsilk;
+    display: inline-block;
+    width: 150px;
+    height: 70px;
+    margin: 0 16px;
+}
